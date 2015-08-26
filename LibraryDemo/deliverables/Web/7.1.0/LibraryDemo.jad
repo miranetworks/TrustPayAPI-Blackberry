@@ -1,0 +1,16 @@
+MIDlet-Name: LibraryDemo
+MIDlet-Version: 1.2.3
+MIDlet-Vendor: TrustPay
+MIDlet-Jar-URL: LibraryDemo.jar
+MIDlet-Jar-Size: 40524
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: LibraryDemo.cod
+RIM-COD-Size: 38388
+RIM-COD-Creation-Time: 1408972839
+RIM-COD-Module-Name: LibraryDemo
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_networkapi,net_rim_bb_browser_field2_api,net_rim_os,net_rim_xml_org,net_rim_bbapi_invoke,net_rim_bb_browser_field_api
+RIM-COD-SHA1: f6 a2 86 2c dd 4d 3f 55 7a 52 5b 8b eb d6 c6 15 e9 08 58 9f
